@@ -65,6 +65,16 @@
 
 ------------
 
+:tw-1f31e: [Buy Me a Coffe ](https://buymeacoffee.com/daboin "Buy Me a Coffe ") :tw-1f31e:
+
+
+------------
+Complex questions or project improvements to implement in a private project can consult me privately.
+
+------------
+If you want to contribute to the project you can do so.
+
+------------
 
 
 
