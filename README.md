@@ -40,5 +40,4 @@ plugin que tiene algunas funciones para gestionar condominios
 
 
 This plugin is a test development, the necessary security checks are carried out to avoid SQL injections but it is up to you to carry out a further verification, I am not responsible at any time for its misuse.
-Enviar comentarios
-Ver diccionario
+
