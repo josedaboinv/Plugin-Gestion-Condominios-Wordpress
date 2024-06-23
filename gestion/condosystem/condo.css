@@ -1,0 +1,9 @@
+		.rut-input {
+            margin-bottom: 10px;
+        }
+        .rut-message {
+            color: green;
+        }
+        .rut-error {
+            color: red;
+        }
