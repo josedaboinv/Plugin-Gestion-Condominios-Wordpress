@@ -53,9 +53,10 @@
 1. Download Repository.
 2. Unzip to your desktop or wherever you want.
 3. Paste the **condosystem** folder into the WordPress plugins folder.
-4. Copy the information from the function.php file to the function.php file of your theme or implement it in the plugin if you like, this is up to you.
-5. Activate Plugin
-6. Setup custom pages with the Shortcodes
+4. Paste the **assets** folder into your theme folder.
+5. Copy the information from the function.php file to the function.php file of your theme or implement it in the plugin if you like, this is up to you.
+6. Activate Plugin
+7. Setup custom pages with the Shortcodes
 
 
 
