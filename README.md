@@ -66,7 +66,7 @@
 
 ------------
 
-:tw-1f31e: [Buy Me a Coffe ](https://buymeacoffee.com/daboin "Buy Me a Coffe ") :tw-1f31e:
+:smile: [Buy Me a Coffe ](https://buymeacoffee.com/daboin "Buy Me a Coffe ") :smile:
 
 
 ------------
