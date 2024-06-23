@@ -2,6 +2,8 @@
 
 -Ajax -PHP -HTML
 
+Wordpress 6.5.4
+
 ### It allows:
 
 ##### Owners
