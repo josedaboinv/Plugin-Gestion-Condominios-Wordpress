@@ -30,23 +30,32 @@
 ==============
 
 ##### Visits
--See all
--Add
 
-Shortcodes
+- See all
+- Add
+
+##### Shortcodes
 `[cm_visit]`
 `[visit-form]`
 
 ==============
 
 ##### Maintenance
--See
--Add
+- See
+- Add
 
-Shortcodes
+##### Shortcodes
 `[mostrar_equipos]`
 `[mantencion-form]`
 
+
+### ### Installation:
+1. Download Repository.
+2. Unzip to your desktop or wherever you want.
+3. Paste the **condosystem** folder into the WordPress plugins folder.
+4. Copy the information from the function.php file to the function.php file of your theme or implement it in the plugin if you like, this is up to you.
+5. Activate Plugin
+6. Setup custom pages with the Shortcodes
 
 
 
