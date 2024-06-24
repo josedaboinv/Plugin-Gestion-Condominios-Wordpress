@@ -61,6 +61,8 @@ Wordpress 6.5.4
 7. Setup custom pages with the Shortcodes
 
 
+### Video
+https://www.youtube.com/watch?v=3PwVbB03G9s
 
 ### For more information add an issue to this repository
 
